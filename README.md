@@ -44,7 +44,7 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
 ## 🏆 GitHub Achievements & Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&row=7&margin-w=10&margin-h=10" alt="trophies"/>
 </p>
 
 ---
