@@ -3,7 +3,8 @@
 👋 Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications. <br>
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
----
+<hr>
+<br>
 
 ## 🌐 Web Development (My Foundation):
 <p>
