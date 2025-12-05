@@ -66,7 +66,7 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohullahAminSarwari&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farooqahmadahmadi&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
