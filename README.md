@@ -3,11 +3,10 @@
 👋 Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications. <br>
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
-c
 
 ## 🌐 Web Development (My Foundation):
 
-<p>
+<p align = "center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,tailwind" />
 </p>  
 I started my coding journey by creating responsive websites using <im>HTML, CSS, JavaScript and Bootstrap</im>. Later, I explored React.JS, TailwindCSS, which helped me master modern UI development.
