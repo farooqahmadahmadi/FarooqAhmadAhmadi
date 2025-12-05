@@ -10,7 +10,6 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 <hr>
 <br>
 
-
 ## 🌐 Web Development (My Foundation):
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,7 +26,6 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 <hr>
 <br>
 
-
 ## ⚙️ Backend & Databases:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -38,7 +36,6 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 
 <hr>
 <br>
-
 
 ### Contacts:
 - Portfolio:
