@@ -3,43 +3,38 @@
 👋 Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications.
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
-
-
 ---
 
-## 🌐 Web Development (My Foundation)  
+## 🌐 Web Development (My Foundation):
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,tailwind" />
 </p>  
-I started my coding journey by creating responsive websites using **HTML, CSS, and JavaScript**.  
-Later, I explored **React + TypeScript + TailwindCSS**, which helped me master **modern UI development**.  
+I started my coding journey by creating responsive websites using *HTML, CSS, JavaScript and Bootstrap*. Later, I explored *React.JS, TailwindCSS*, which helped me master *modern UI development*
 
 ---
 
-## ⚙️ Backend & Databases (Power Behind Apps)  
+## ⚙️ Backend & Databases:  
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,oracle,sqlserver" />
 </p>  
-I specialize in **Laravel** and **Node.js**, with strong knowledge of **REST APIs** and databases like **MySQL** and **MongoDB**.  
-Building **secure, fast, and scalable backends** is something I truly enjoy.  
+I specialize in Relational Databases Like *MySQL* , *Oracle* and *SQL Server*.  
+Designing the *secure, fast, and scalable Databse* is something I truly enjoy.  
 
 ---
 
 ## 📱 Mobile App Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=android,flutter,react" />
+  <img src="https://skillicons.dev/icons?i=android" />
 </p>  
 - 📱 Native Android (Java/Kotlin basics)  
-- 🌈 Cross-platform with **Flutter**  
-- ⚡ Fast & interactive apps with **React Native**  
 
 ---
 
 ## 💻 Programming Languages (Problem-Solving Tools)  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>  
-From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple languages depending on the project requirements.  
+From *C & C++ fundamentals* to *, Python, and C#*, I use multiple languages depending on the project requirements.  
 
 ---
 
@@ -102,42 +97,3 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
 
 ---
 
-
-
-
-# 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
-
-Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications.
-
-🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
-
-<hr>
-<br>
-
-## 🌐 Web Development (My Foundation):
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-I started my coding journey by creating responsive websites using *HTML, CSS, JavaScript and Bootstrap*. Later, I explored *React.JS, TailwindCSS*, which helped me master *modern UI development*
-
-<hr>
-<br>
-
-## ⚙️ Backend & Databases:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-<hr>
-<br>
-
-### Contacts:
-- Portfolio:
-- Email: farooqahmadahmadi1400@gmail.com
-- Whatsapp: +93 79 514 6492
-- Statistics یا GitHub Contributions badges
