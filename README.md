@@ -29,7 +29,7 @@ Designing the secure, fast, and scalable Databse is something I truly enjoy.
 ## 📱 Mobile App Development  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-📱 Native Android (Java/Kotlin basics) </p>  
+Native Android (Java/Kotlin basics) </p>  
 
 ---
 
@@ -37,7 +37,7 @@ Designing the secure, fast, and scalable Databse is something I truly enjoy.
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>  
-From *C & C++ fundamentals* to *, Python, and C#*, I use multiple languages depending on the project requirements.  
+From C & C++ fundamentals to , Python, I use multiple languages depending on the project requirements.  
 
 ---
 
