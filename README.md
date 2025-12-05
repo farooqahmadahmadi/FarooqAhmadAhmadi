@@ -4,9 +4,9 @@
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
 <hr>
-<br>
 
 ## 🌐 Web Development (My Foundation):
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,tailwind" />
 </p>  
