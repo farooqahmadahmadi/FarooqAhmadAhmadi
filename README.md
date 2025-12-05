@@ -52,13 +52,14 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarooqAhmadAhmadi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarooqAhmadAhmadi&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farooqahmadahmadi&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farooqahmadahmadi&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarooqAhmadAhmadi&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqahmadahmadi&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
