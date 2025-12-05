@@ -28,7 +28,7 @@ Designing the secure, fast, and scalable Databse is something I truly enjoy.
 
 ## 📱 Mobile App Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 </p>  
 - 📱 Native Android (Java/Kotlin basics)  
 
