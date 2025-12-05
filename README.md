@@ -3,7 +3,7 @@
 👋 Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications. <br>
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
-<hr>
+c
 
 ## 🌐 Web Development (My Foundation):
 
@@ -12,7 +12,6 @@
 </p>  
 I started my coding journey by creating responsive websites using <im>HTML, CSS, JavaScript and Bootstrap</im>. Later, I explored React.JS, TailwindCSS, which helped me master modern UI development.
 
----
 <hr>
 
 ## ⚙️ Backend & Databases:  
@@ -26,32 +25,32 @@ I started my coding journey by creating responsive websites using <im>HTML, CSS,
 I specialize in Relational Databases Like MySQL , Oracle and SQL Server.  
 Designing the secure, fast, and scalable Databse is something I truly enjoy.  
 
----
+<hr>
 
-## 📱 Mobile App Development  
+## 📱 Mobile App Development:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 Native Android (Java/Kotlin basics) </p>  
 
----
+<hr>
 
-## 💻 Programming Languages (Problem-Solving Tools)  
+## 💻 Programming Languages (Problem-Solving Tools):
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>  
 From C & C++ fundamentals to , Python, I use multiple languages depending on the project requirements.  
 
----
+<hr>
 
-## 🏆 GitHub Achievements & Trophies  
+## 🏆 GitHub Achievements & Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&column=5&margin-w=10&margin-h=10" alt="trophies"/>
 </p>
 
----
+<hr>
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farooqahmadahmadi&show_icons=true&theme=tokyonight" height="165"/>
@@ -62,18 +61,17 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqahmadahmadi&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<hr>
 
----
-
-## 📈 Contribution Activity  
+## 📈 Contribution Activity:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farooqahmadahmadi&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true"/>
 </p>
 
----
+<hr>
 
-## 🔢 Commit & Profile Counters  
+## 🔢 Commit & Profile Counters:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farooqahmadahmadi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -83,9 +81,9 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <img src="https://img.shields.io/github/commit-activity/m/farooqahmadahmadi/farooqahmadahmadi?style=for-the-badge&color=brightgreen" alt="Commit Activity" />
 </p>
 
----
+<hr>
 
-## 🌍 Connect with Me  
+## 🌍 Connect with Me:
 
 <p align="center">
   <a href="https://wa.me/93795146492" target="_blank">
@@ -94,7 +92,6 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <a href="mailto:farooqahmadahmadi1400@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- 
 </p>
 
 ---
