@@ -20,6 +20,10 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+I started my coding journey by creating responsive websites using *HTML, CSS, JavaScript and Bootstrap*. Later, I explored *React.JS, TailwindCSS*, which helped me master *modern UI development*
+
+
+
 <hr>
 
 ## ⚙️ Backend & Databases:
