@@ -17,7 +17,7 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql,oracle,sqlserver" />
 </p>  
-I specialize in Relational Databases Like *MySQL* , *Oracle* and *SQL Server*.  
+I specialize in Relational Databases Like MySQL , Oracle and SQL Server.  
 Designing the *secure, fast, and scalable Databse* is something I truly enjoy.  
 
 ---
@@ -69,17 +69,11 @@ From *C & C++ fundamentals* to *, Python, and C#*, I use multiple languages depe
 
 ## 🔢 Commit & Profile Counters  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohullahAminSarwari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/RohullahAminSarwari" alt="Commits per month" />
-  <img src="https://img.shields.io/github/commit-activity/m/RohullahAminSarwari/RohullahAminSarwari" alt="Commit Activity" />
+p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farooqahmadahmadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://badges.pufler.dev/commits/monthly/farooqahmadahmadi" alt="Commits per month" />
+  <img src="https://img.shields.io/github/commit-activity/m/farooqahmadahmadi/farooqahmadahmadi" alt="Commit Activity" />
 </p>
-
----
-
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/RohullahAminSarwari/RohullahAminSarwari/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
