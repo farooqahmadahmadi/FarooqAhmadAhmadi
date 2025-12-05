@@ -1,4 +1,4 @@
-### 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
+# 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
 
 <!--
 **farooqahmadahmadi/FarooqAhmadAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 
 <hr>
 
-# Contacts:
+### Contacts:
 - Portfolio:
 - Email: farooqahmadahmadi
 - Whatsapp: +93 79 514 6492
