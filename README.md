@@ -1,4 +1,4 @@
-## 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
+### 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
 
 <!--
 **farooqahmadahmadi/FarooqAhmadAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
 
-🌐 Web Development (My Foundation)
+##🌐 Web Development (My Foundation)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
