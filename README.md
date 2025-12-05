@@ -69,7 +69,7 @@ From *C & C++ fundamentals* to *, Python, and C#*, I use multiple languages depe
 
 ## 🔢 Commit & Profile Counters  
 
-p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=farooqahmadahmadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://badges.pufler.dev/commits/monthly/farooqahmadahmadi" alt="Commits per month" />
   <img src="https://img.shields.io/github/commit-activity/m/farooqahmadahmadi/farooqahmadahmadi" alt="Commit Activity" />
