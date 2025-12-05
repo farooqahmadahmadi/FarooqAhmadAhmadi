@@ -74,13 +74,10 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
 ## 🔢 Commit & Profile Counters  
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=farooqahmadahmadi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  
-  <!-- Monthly Commits -->
-  <img src="https://img.shields.io/badge/Monthly%20Commits-Automated-blue?style=for-the-badge&logo=github" alt="Commits per month" />
-  
-  <!-- Commit Activity -->
+
+  <img src="https://badges.pufler.dev/commits/monthly/farooqahmadahmadi" alt="Commits per month" style="height:28px" />
+
   <img src="https://img.shields.io/github/commit-activity/m/farooqahmadahmadi/farooqahmadahmadi?style=for-the-badge&color=brightgreen" alt="Commit Activity" />
 </p>
 
