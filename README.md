@@ -7,7 +7,6 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
 
-
 <hr>
 <br>
 
@@ -23,7 +22,6 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 
 
 I started my coding journey by creating responsive websites using *HTML, CSS, JavaScript and Bootstrap*. Later, I explored *React.JS, TailwindCSS*, which helped me master *modern UI development*
-
 
 
 <hr>
@@ -44,6 +42,6 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 
 ### Contacts:
 - Portfolio:
-- Email: farooqahmadahmadi
+- Email: farooqahmadahmadi1400@gmail.com
 - Whatsapp: +93 79 514 6492
 - Statistics یا GitHub Contributions badges
