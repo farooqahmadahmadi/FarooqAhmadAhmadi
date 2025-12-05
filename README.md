@@ -23,7 +23,6 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 
 
 <hr>
-<br>
 
 ## ⚙️ Backend & Databases:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
