@@ -1,15 +1,16 @@
 # 👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
 
-<!--
-**farooqahmadahmadi/FarooqAhmadAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **farooqahmadahmadi/FarooqAhmadAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications.
 
 🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
 
 
+
 <hr>
+<br>
+
 
 ## 🌐 Web Development (My Foundation):
 
@@ -20,11 +21,14 @@ Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who lo
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+
 I started my coding journey by creating responsive websites using *HTML, CSS, JavaScript and Bootstrap*. Later, I explored *React.JS, TailwindCSS*, which helped me master *modern UI development*
 
 
 
 <hr>
+<br>
+
 
 ## ⚙️ Backend & Databases:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -32,7 +36,11 @@ I started my coding journey by creating responsive websites using *HTML, CSS, Ja
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+
+
 <hr>
+<br>
+
 
 ### Contacts:
 - Portfolio:
