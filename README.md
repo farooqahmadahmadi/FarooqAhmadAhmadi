@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👨‍💻 Web & Software Developer | Farooq Ahmad Ahmadi
+
+Hi, I’m Farooq Ahmad Ahmadi, a passionate *Front End Web App Developer* who loves building modern, scalable, and user-friendly applications.
+
+🔑 My journey started with *Web Development*, and over time I expanded into *Backend*, *Database Design & Development*, and *Programming Languages*.
