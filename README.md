@@ -6,7 +6,7 @@
 <hr>
 
 ## 🌐 Web Development (My Foundation):
-
+  
 <p align = "center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
 </p>  
