@@ -82,7 +82,7 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
 
 <hr>
 
-## 🌍 Connect with Me:
+## 📠 Connect with Me:
 
 <p align="center">
   <a href="https://wa.me/93795146492" target="_blank">
