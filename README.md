@@ -23,7 +23,7 @@ I started my coding journey by creating responsive websites using <im>HTML, CSS,
 
 </p>  
 I specialize in Relational Databases Like MySQL , Oracle and SQL Server.  
-Designing the secure, fast, and scalable Databse is something I truly enjoy.  
+Designing/ Develop the secure, fast, and scalable Databse is something I truly enjoy.  
 
 <hr>
 
