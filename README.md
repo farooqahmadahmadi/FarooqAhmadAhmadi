@@ -96,6 +96,13 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <a href="mailto:farooqahmadahmadi1400@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://t.me/FarooqAhmadAhmadi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/Ahmadi.ITP" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
