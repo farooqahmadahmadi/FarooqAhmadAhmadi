@@ -102,6 +102,8 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <a href="https://facebook.com/Ahmadi.ITP" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/farooqahmadahmadi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
 </p>
 
