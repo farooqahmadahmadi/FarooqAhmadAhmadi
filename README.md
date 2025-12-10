@@ -100,7 +100,7 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   <a href="https://t.me/FarooqAhmadAhmadi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/Ahmadi.ITP" target="_blank">
+  <a href="https://facebook.com/farooqahmadahmadi1400" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/farooqahmadahmadi" target="_blank">
