@@ -104,6 +104,10 @@ From C & C++ fundamentals to , Python, I use multiple languages depending on the
   </a>
   <a href="https://www.instagram.com/farooqahmadahmadi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="tel:+93795146492">
+  <img src="https://img.shields.io/badge/Call%20Me-📞%20+93%20795%20146%20492-blue?style=for-the-badge"/>
+  </a>
 
 </p>
 
