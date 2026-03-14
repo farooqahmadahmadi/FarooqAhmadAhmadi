@@ -8,7 +8,7 @@
 ## 🌐 Web Development (My Foundation):
   
 <p align = "center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind, node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind, node" />
 </p>  
 I started my coding journey by creating responsive websites using <im>HTML, CSS, JavaScript and Bootstrap</im>. Later, I explored React.JS, TailwindCSS, which helped me master modern UI development.
 
