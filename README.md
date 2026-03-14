@@ -36,7 +36,7 @@ Native Android (Java/Kotlin basics) </p>
 
 ## 💻 Programming Languages (Problem-Solving Tools):
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,python" />
 </p>  
 From C & C++ fundamentals to , Python, I use multiple languages depending on the project requirements.  
 
