@@ -8,7 +8,7 @@
 ## 🌐 Web Development (My Foundation):
   
 <p align = "center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind, node.js" />
 </p>  
 I started my coding journey by creating responsive websites using <im>HTML, CSS, JavaScript and Bootstrap</im>. Later, I explored React.JS, TailwindCSS, which helped me master modern UI development.
 
@@ -16,11 +16,9 @@ I started my coding journey by creating responsive websites using <im>HTML, CSS,
 
 ## ⚙️ Backend & Databases:  
  <p align="center">
-  <img src="https://skillicons.dev/icons?i="expres" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 </p>  
