@@ -4,7 +4,7 @@
 
 🔑 My software engineering journey is backed by strong expertise in full-stack development, mobile apps, architectural design, database modeling, and technical analysis.
 
----
+--- 
 
 ## 🌐 Full-Stack Web Development
 
