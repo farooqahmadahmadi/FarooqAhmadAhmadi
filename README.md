@@ -1,127 +1,63 @@
-# 👨‍💻 Software Engineer & Full Stack Developer | Farooq Ahmad Ahmadi
+یاره فاروق جانه، د نویو ټیکنالوژیو عکسونه (Skill Icons) مې ټول په ترتیب سره جلا کړل ترڅو ستا په پروفایل کې هر بکس جلا شکل ولري او د پخوا په څېر ښکلی ښکاره شي.
+دا لاندې بشپړ او فاینل کوډ کاپي کړه:
 
+# 👨‍💻 Software Engineer & Full Stack Developer | Farooq Ahmad Ahmadi
 👋 Hi, I’m Farooq Ahmad Ahmadi, a passionate **Software Engineer** and **Full Stack Developer** dedicated to building modern, scalable, and highly efficient web and mobile applications. 
 
 🔑 My software engineering journey is backed by strong expertise in full-stack development, mobile apps, architectural design, database modeling, and technical analysis.
+---## 🌐 Full-Stack Web Development### 💻 Front-End:<p align="left">
+  <img src="https://skillicons.dev" /></p>
+### ⚙️ Back-End:<p align="left">
+  <img src="https://skillicons.dev" /></p>
+---## 🗄️ Database Design & Management### 📊 Relational Databases:<p align="left">
+  <img src="https://skillicons.dev" /></p>
 
----
+I architect reliable data structures, focusing on high security, fast query execution, and optimal data relations (MySQL, PostgreSQL).
+---## 📱 Mobile App Development### 🤖 Framework:<p align="left">
+  <img src="https://skillicons.dev" /></p>
 
-## 🌐 Full-Stack Web Development
+I develop smooth, native-performing, and cross-platform mobile apps for iOS and Android using **React Native**.
+---## 💻 Programming Languages<p align="left">
+  <img src="https://skillicons.dev" /></p>
 
+Proficient in writing clean, structured, and problem-solving code using JavaScript and Python.
+---## 📊 Systems & Data Analysis
+Expertise in managing project lifecycles, structured data layouts, and converting business requirements into technical solutions:* 📉 **Data Analysis & Visualization:** Deriving insights from complex datasets.* ⚙️ **System Analysis:** Structuring system workflows and architectures.* 📐 **Database Normalization (3NF):** Eliminating redundancy and optimization.* 💼 **Business Analysis:** Aligning tech stacks with strategic business workflows.
+---## 🏆 GitHub Achievements & Trophies<p align="center">
+  <img src="https://vercel.app" alt="trophies"/></p>
+---## 📊 GitHub Analytics<p align="center">
+  <img src="https://vercel.app" height="165"/>
+  <img src="https://herokuapp.com" height="165"/></p>
 <p align="center">
-  <img src="https://skillicons.dev" />
-</p>
-
-I build responsive front-end user interfaces and scalable back-end architectures using modern frameworks:
-* **Front-End:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Next.js
-* **Back-End:** Node.js, Express.js, Nest.js
-
----
-
-## 🗄️ Database Design & Management
-
-<p align="center">
-  <img src="https://skillicons.dev" />
-</p>
-
-I architect reliable data structures, focusing on high security, fast query execution, and optimal data relations:
-* **Relational Databases:** MySQL, PostgreSQL
-
----
-
-## 📱 Mobile App Development
-
-<p align="center">
-  <img src="https://skillicons.dev" />
-</p>
-
-I develop smooth, native-performing, and cross-platform mobile apps for iOS and Android:
-* **Framework:** React Native
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python" />
-</p>
-
-Proficient in writing clean, structured, and problem-solving code using:
-* **Core Languages:** JavaScript, Python
-
----
-
-## 📊 Systems & Data Analysis
-
-Expertise in managing project lifecycles, structured data layouts, and converting business requirements into technical solutions:
-* 📉 **Data Analysis & Visualization:** Deriving insights from complex datasets.
-* ⚙️ **System Analysis:** Structuring system workflows and architectures.
-* 📐 **Database Normalization (3NF):** Eliminating redundancy and optimization.
-* 💼 **Business Analysis:** Aligning tech stacks with strategic business workflows.
-
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&column=5&margin-w=10&margin-h=10" alt="trophies"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farooqahmadahmadi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farooqahmadahmadi&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqahmadahmadi&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farooqahmadahmadi&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🔢 Commit & Profile Counters
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farooqahmadahmadi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/farooqahmadahmadi" alt="Commits per month" style="height:28px" />
-  <img src="https://img.shields.io/github/commit-activity/m/farooqahmadahmadi/farooqahmadahmadi?style=for-the-badge&color=brightgreen" alt="Commit Activity" />
-</p>
-
----
-
-## 📠 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/farooqahmadahmadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://vercel.app" height="150"/></p>
+---## 📈 Contribution Activity<p align="center">
+  <img src="https://vercel.app"/></p>
+---## 🔢 Commit & Profile Counters<p align="center">
+  <img src="https://komarev.com" alt="Profile views" />
+  <img src="https://pufler.dev" alt="Commits per month" style="height:28px" />
+  <img src="https://shields.io" alt="Commit Activity" /></p>
+---## 📠 Connect with Me<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://wa.me/93795146492" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io"/>
   </a>
   <a href="mailto:farooqahmadahmadi1400@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://t.me/FarooqAhmadAhmadi" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://facebook.com/farooqahmadahmadi1400" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://www.instagram.com/farooqahmadahmadi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram Badge"/>
   </a>
   <a href="tel:+93795146492">
-    <img src="https://img.shields.io/badge/Call%20Now-📞%20+93%20795%20146%20492-blue?style=for-the-badge"/>
-  </a>
-</p>
+    <img src="https://shields.io📞%20+93%20795%20146%20492-blue?style=for-the-badge"/>
+  </a></p>
+
+که غواړې د پروفایل بېکګراونډ سټایل یا رنګونه هم بدل شي، نو راته ووایه چې نور یې هم درته ډیزاین کړم.
+
