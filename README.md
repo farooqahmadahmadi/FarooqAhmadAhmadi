@@ -9,13 +9,11 @@
 ## 🌐 Full-Stack Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,nestjs" />
 </p>
 
-I build responsive front-end user interfaces and scalable back-end architectures using modern frameworks:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,nestjs,mysql,postgres,react" />
-</p>
+I build responsive front-end user interfaces and scalable back-end architectures using modern technologies and industry best practices.
+
 * **Front-End:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Next.js
 * **Back-End:** Node.js, Express.js, Nest.js
 
@@ -24,10 +22,11 @@ I build responsive front-end user interfaces and scalable back-end architectures
 ## 🗄️ Database Design & Management
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-I architect reliable data structures, focusing on high security, fast query execution, and optimal data relations:
+I design and manage reliable database systems with a focus on performance, security, data integrity, and efficient relationships.
+
 * **Relational Databases:** MySQL, PostgreSQL
 
 ---
@@ -35,10 +34,11 @@ I architect reliable data structures, focusing on high security, fast query exec
 ## 📱 Mobile App Development
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-I develop smooth, native-performing, and cross-platform mobile apps for iOS and Android:
+I develop cross-platform mobile applications that deliver smooth performance and native-like user experiences on both Android and iOS.
+
 * **Framework:** React Native
 
 ---
@@ -49,7 +49,8 @@ I develop smooth, native-performing, and cross-platform mobile apps for iOS and 
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
-Proficient in writing clean, structured, and problem-solving code using:
+Proficient in writing clean, maintainable, and problem-solving code using:
+
 * **Core Languages:** JavaScript, Python
 
 ---
