@@ -68,7 +68,7 @@ Expertise in managing project lifecycles, structured data layouts, and convertin
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&column=5&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FarooqAhmadAhmadi&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
