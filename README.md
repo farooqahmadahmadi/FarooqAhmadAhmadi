@@ -13,6 +13,9 @@
 </p>
 
 I build responsive front-end user interfaces and scalable back-end architectures using modern frameworks:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,nestjs,mysql,postgres,react" />
+</p>
 * **Front-End:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Next.js
 * **Back-End:** Node.js, Express.js, Nest.js
 
